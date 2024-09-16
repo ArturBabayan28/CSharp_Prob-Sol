@@ -1,9 +1,9 @@
 # CSharp_Prob_Sol
 1. Data Structures
-  1.1 Create a list of integers and add 5 elements to it./n
-  1.2 Create a dictionary with string keys and integer values, and add 5 key-value pairs to it.
-  1.3 Create a queue of integers and add 5 elements to it.
-  1.4 Create a stack of integers and add 5 elements to it.
+  + Create a list of integers and add 5 elements to it.
+  + Create a dictionary with string keys and integer values, and add 5 key-value pairs to it.
+  + Create a queue of integers and add 5 elements to it.
+  + Create a stack of integers and add 5 elements to it.
 2. Operations on Data Structures
   2.1 Calculate and print the sum of all elements in the list.
   2.2 Calculate and print the sum of all values in the dictionary.

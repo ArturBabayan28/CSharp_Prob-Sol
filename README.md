@@ -1,5 +1,5 @@
 # CSharp_Prob_Sol
-<h2>Homework 1<h2>
+Homework 1
 1. Data Structures
   + Create a list of integers and add 5 elements to it.
   + Create a dictionary with string keys and integer values, and add 5 key-value pairs to it.
@@ -17,6 +17,6 @@
   + From an array, find all even values and print their sum.
   + Calculate and print the average of all elements in the array.
 
-<h2>Homework 2<h2>
+Homework 2
 + Implement Insertion Sort or Selection Sort recursively.
 + Implement a Custom Queue using either an array, a list, or any other structure you prefer.
